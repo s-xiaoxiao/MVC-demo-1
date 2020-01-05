@@ -11,10 +11,10 @@
 }
 #app4 .circle {
   border: 1px solid grey;
-  width: 30vw;
-  height: 30vw;
+  width: 20vw;
+  height: 20vw;
   border-radius: 50%;
-  margin: 10vw 0 0 10vw;
+  margin: 2vw 0 0 2vw;
 }
 
 #app4 .circle.active {
